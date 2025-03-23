@@ -1,0 +1,1002 @@
+[
+  {
+    "Make": "Hyundai",
+    "Model": "Kona",
+    "Year": 2010,
+    "Horsepower": 258,
+    "IsElectric": false,
+    "Price": 62753.68,
+    "Color": "Silver",
+    "DateAdded": "2023-06-06"
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i",
+    "Year": 2011,
+    "Horsepower": 341,
+    "IsElectric": false,
+    "Price": 49145.18,
+    "Color": "Yellow",
+    "DateAdded": "2022-05-16"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2019,
+    "Horsepower": 177,
+    "IsElectric": false,
+    "Price": 54458.24,
+    "Color": "Purple",
+    "DateAdded": "2023-04-11"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2023,
+    "Horsepower": 442,
+    "IsElectric": false,
+    "Price": 35796.26,
+    "Color": "White",
+    "DateAdded": "2023-12-26"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2020,
+    "Horsepower": 458,
+    "IsElectric": true,
+    "Price": 62635.8,
+    "Color": "Black",
+    "DateAdded": "2021-09-16"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Elantra",
+    "Year": 2023,
+    "Horsepower": 362,
+    "IsElectric": true,
+    "Price": 52004.41,
+    "Color": "White",
+    "DateAdded": "2022-02-15"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra",
+    "Year": 2020,
+    "Horsepower": 465,
+    "IsElectric": false,
+    "Price": 60082.14,
+    "Color": "Red",
+    "DateAdded": "2025-02-19"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra",
+    "Year": 2011,
+    "Horsepower": 359,
+    "IsElectric": false,
+    "Price": 53047.58,
+    "Color": "Blue",
+    "DateAdded": "2024-07-30"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2015,
+    "Horsepower": 490,
+    "IsElectric": true,
+    "Price": 33738.16,
+    "Color": "Black",
+    "DateAdded": "2022-10-17"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2022,
+    "Horsepower": 217,
+    "IsElectric": true,
+    "Price": 27000.58,
+    "Color": "Orange",
+    "DateAdded": "2022-08-10"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2019,
+    "Horsepower": 205,
+    "IsElectric": true,
+    "Price": 28820.39,
+    "Color": "Red",
+    "DateAdded": "2023-02-07"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2017,
+    "Horsepower": 226,
+    "IsElectric": true,
+    "Price": 54698.19,
+    "Color": "Green",
+    "DateAdded": "2020-09-17"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2014,
+    "Horsepower": 482,
+    "IsElectric": false,
+    "Price": 59912.67,
+    "Color": "Blue",
+    "DateAdded": "2023-05-31"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Sportage",
+    "Year": 2023,
+    "Horsepower": 438,
+    "IsElectric": true,
+    "Price": 31154.08,
+    "Color": "Gray",
+    "DateAdded": "2024-01-03"
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i",
+    "Year": 2023,
+    "Horsepower": 108,
+    "IsElectric": true,
+    "Price": 77522.12,
+    "Color": "Yellow",
+    "DateAdded": "2024-11-14"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Focus",
+    "Year": 2014,
+    "Horsepower": 292,
+    "IsElectric": false,
+    "Price": 24136.73,
+    "Color": "Blue",
+    "DateAdded": "2023-02-21"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2012,
+    "Horsepower": 149,
+    "IsElectric": true,
+    "Price": 18674.68,
+    "Color": "Blue",
+    "DateAdded": "2024-12-17"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2023,
+    "Horsepower": 207,
+    "IsElectric": false,
+    "Price": 26757.18,
+    "Color": "White",
+    "DateAdded": "2019-11-14"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Elantra",
+    "Year": 2011,
+    "Horsepower": 290,
+    "IsElectric": true,
+    "Price": 40610.31,
+    "Color": "Orange",
+    "DateAdded": "2021-12-30"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2022,
+    "Horsepower": 422,
+    "IsElectric": true,
+    "Price": 41690.93,
+    "Color": "Orange",
+    "DateAdded": "2023-05-07"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2017,
+    "Horsepower": 226,
+    "IsElectric": false,
+    "Price": 76122.67,
+    "Color": "Green",
+    "DateAdded": "2024-12-28"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2010,
+    "Horsepower": 297,
+    "IsElectric": false,
+    "Price": 63409.25,
+    "Color": "Orange",
+    "DateAdded": "2022-05-22"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fusion",
+    "Year": 2020,
+    "Horsepower": 453,
+    "IsElectric": true,
+    "Price": 25514.86,
+    "Color": "Yellow",
+    "DateAdded": "2022-05-22"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2019,
+    "Horsepower": 470,
+    "IsElectric": false,
+    "Price": 49000.52,
+    "Color": "Green",
+    "DateAdded": "2024-07-22"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6",
+    "Year": 2018,
+    "Horsepower": 400,
+    "IsElectric": false,
+    "Price": 25996.13,
+    "Color": "Green",
+    "DateAdded": "2024-05-23"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Impala",
+    "Year": 2016,
+    "Horsepower": 439,
+    "IsElectric": false,
+    "Price": 32885.39,
+    "Color": "Yellow",
+    "DateAdded": "2021-07-25"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sonata",
+    "Year": 2014,
+    "Horsepower": 443,
+    "IsElectric": true,
+    "Price": 67604.35,
+    "Color": "Silver",
+    "DateAdded": "2023-03-18"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2018,
+    "Horsepower": 229,
+    "IsElectric": false,
+    "Price": 55889.64,
+    "Color": "Silver",
+    "DateAdded": "2022-08-04"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Forte",
+    "Year": 2012,
+    "Horsepower": 345,
+    "IsElectric": true,
+    "Price": 54658.34,
+    "Color": "Blue",
+    "DateAdded": "2024-06-18"
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i",
+    "Year": 2013,
+    "Horsepower": 163,
+    "IsElectric": true,
+    "Price": 16881.3,
+    "Color": "Red",
+    "DateAdded": "2023-10-25"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fusion",
+    "Year": 2019,
+    "Horsepower": 154,
+    "IsElectric": true,
+    "Price": 59758.02,
+    "Color": "Black",
+    "DateAdded": "2023-04-25"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3",
+    "Year": 2012,
+    "Horsepower": 301,
+    "IsElectric": true,
+    "Price": 53704.73,
+    "Color": "Yellow",
+    "DateAdded": "2021-11-22"
+  },
+  {
+    "Make": "Honda",
+    "Model": "CR-V",
+    "Year": 2023,
+    "Horsepower": 470,
+    "IsElectric": false,
+    "Price": 73112.84,
+    "Color": "Gray",
+    "DateAdded": "2023-06-19"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2021,
+    "Horsepower": 357,
+    "IsElectric": true,
+    "Price": 50220.61,
+    "Color": "Purple",
+    "DateAdded": "2024-06-02"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Year": 2011,
+    "Horsepower": 386,
+    "IsElectric": false,
+    "Price": 39916.04,
+    "Color": "Green",
+    "DateAdded": "2024-08-31"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Impala",
+    "Year": 2012,
+    "Horsepower": 169,
+    "IsElectric": false,
+    "Price": 41661.04,
+    "Color": "White",
+    "DateAdded": "2024-01-27"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Tahoe",
+    "Year": 2018,
+    "Horsepower": 232,
+    "IsElectric": true,
+    "Price": 44603.21,
+    "Color": "Silver",
+    "DateAdded": "2023-11-10"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6",
+    "Year": 2018,
+    "Horsepower": 439,
+    "IsElectric": false,
+    "Price": 26925.74,
+    "Color": "Black",
+    "DateAdded": "2020-09-19"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2019,
+    "Horsepower": 357,
+    "IsElectric": false,
+    "Price": 57022.68,
+    "Color": "Orange",
+    "DateAdded": "2021-01-23"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Forte",
+    "Year": 2021,
+    "Horsepower": 413,
+    "IsElectric": true,
+    "Price": 49925.73,
+    "Color": "Purple",
+    "DateAdded": "2021-07-05"
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i",
+    "Year": 2019,
+    "Horsepower": 292,
+    "IsElectric": true,
+    "Price": 22245.6,
+    "Color": "White",
+    "DateAdded": "2022-02-09"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Accord",
+    "Year": 2015,
+    "Horsepower": 410,
+    "IsElectric": false,
+    "Price": 53152.48,
+    "Color": "Purple",
+    "DateAdded": "2020-04-23"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2010,
+    "Horsepower": 339,
+    "IsElectric": true,
+    "Price": 20126.86,
+    "Color": "Red",
+    "DateAdded": "2022-04-05"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2013,
+    "Horsepower": 396,
+    "IsElectric": true,
+    "Price": 31408.96,
+    "Color": "Black",
+    "DateAdded": "2021-07-29"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escape",
+    "Year": 2015,
+    "Horsepower": 454,
+    "IsElectric": true,
+    "Price": 48705.05,
+    "Color": "White",
+    "DateAdded": "2021-03-24"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Tahoe",
+    "Year": 2010,
+    "Horsepower": 324,
+    "IsElectric": false,
+    "Price": 45646.69,
+    "Color": "Black",
+    "DateAdded": "2020-07-09"
+  },
+  {
+    "Make": "Audi",
+    "Model": "Q5",
+    "Year": 2016,
+    "Horsepower": 149,
+    "IsElectric": false,
+    "Price": 49363.01,
+    "Color": "Red",
+    "DateAdded": "2024-07-23"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Focus",
+    "Year": 2023,
+    "Horsepower": 143,
+    "IsElectric": true,
+    "Price": 60251.3,
+    "Color": "Red",
+    "DateAdded": "2023-01-17"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra",
+    "Year": 2020,
+    "Horsepower": 273,
+    "IsElectric": false,
+    "Price": 31842.89,
+    "Color": "White",
+    "DateAdded": "2023-07-05"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2023,
+    "Horsepower": 394,
+    "IsElectric": true,
+    "Price": 61689.41,
+    "Color": "White",
+    "DateAdded": "2024-03-21"
+  },
+  {
+    "Make": "Kia",
+    "Model": "EV6",
+    "Year": 2023,
+    "Horsepower": 240,
+    "IsElectric": false,
+    "Price": 68082.81,
+    "Color": "Blue",
+    "DateAdded": "2022-12-17"
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i",
+    "Year": 2012,
+    "Horsepower": 211,
+    "IsElectric": false,
+    "Price": 19218.25,
+    "Color": "Blue",
+    "DateAdded": "2023-02-15"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Year": 2022,
+    "Horsepower": 111,
+    "IsElectric": false,
+    "Price": 61888.31,
+    "Color": "White",
+    "DateAdded": "2020-08-19"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2010,
+    "Horsepower": 484,
+    "IsElectric": true,
+    "Price": 42443.51,
+    "Color": "Black",
+    "DateAdded": "2021-08-01"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6",
+    "Year": 2012,
+    "Horsepower": 298,
+    "IsElectric": false,
+    "Price": 50496.3,
+    "Color": "White",
+    "DateAdded": "2022-10-18"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A4",
+    "Year": 2015,
+    "Horsepower": 270,
+    "IsElectric": true,
+    "Price": 57978.7,
+    "Color": "Orange",
+    "DateAdded": "2020-05-26"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6",
+    "Year": 2018,
+    "Horsepower": 133,
+    "IsElectric": true,
+    "Price": 41216.0,
+    "Color": "Silver",
+    "DateAdded": "2024-07-30"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escape",
+    "Year": 2020,
+    "Horsepower": 464,
+    "IsElectric": true,
+    "Price": 73304.81,
+    "Color": "Blue",
+    "DateAdded": "2021-04-15"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2016,
+    "Horsepower": 398,
+    "IsElectric": true,
+    "Price": 47918.81,
+    "Color": "Black",
+    "DateAdded": "2020-12-30"
+  },
+  {
+    "Make": "Honda",
+    "Model": "CR-V",
+    "Year": 2014,
+    "Horsepower": 456,
+    "IsElectric": false,
+    "Price": 30018.02,
+    "Color": "Gray",
+    "DateAdded": "2020-04-28"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3",
+    "Year": 2020,
+    "Horsepower": 462,
+    "IsElectric": false,
+    "Price": 66173.99,
+    "Color": "Orange",
+    "DateAdded": "2021-06-01"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra",
+    "Year": 2014,
+    "Horsepower": 169,
+    "IsElectric": false,
+    "Price": 65320.34,
+    "Color": "Blue",
+    "DateAdded": "2024-07-06"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2016,
+    "Horsepower": 180,
+    "IsElectric": true,
+    "Price": 29504.39,
+    "Color": "Gray",
+    "DateAdded": "2024-06-22"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model 3",
+    "Year": 2023,
+    "Horsepower": 232,
+    "IsElectric": false,
+    "Price": 41466.08,
+    "Color": "Gray",
+    "DateAdded": "2019-10-05"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Kona",
+    "Year": 2023,
+    "Horsepower": 173,
+    "IsElectric": false,
+    "Price": 60733.98,
+    "Color": "Orange",
+    "DateAdded": "2024-07-04"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Year": 2013,
+    "Horsepower": 421,
+    "IsElectric": false,
+    "Price": 77490.31,
+    "Color": "Yellow",
+    "DateAdded": "2020-04-21"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model 3",
+    "Year": 2018,
+    "Horsepower": 252,
+    "IsElectric": false,
+    "Price": 50013.15,
+    "Color": "Black",
+    "DateAdded": "2021-03-09"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fusion",
+    "Year": 2012,
+    "Horsepower": 462,
+    "IsElectric": true,
+    "Price": 29667.32,
+    "Color": "Black",
+    "DateAdded": "2022-09-13"
+  },
+  {
+    "Make": "Honda",
+    "Model": "CR-V",
+    "Year": 2014,
+    "Horsepower": 331,
+    "IsElectric": true,
+    "Price": 71944.18,
+    "Color": "Red",
+    "DateAdded": "2020-12-15"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5",
+    "Year": 2021,
+    "Horsepower": 320,
+    "IsElectric": true,
+    "Price": 73953.26,
+    "Color": "Green",
+    "DateAdded": "2021-12-06"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Altima",
+    "Year": 2012,
+    "Horsepower": 438,
+    "IsElectric": true,
+    "Price": 61061.25,
+    "Color": "Red",
+    "DateAdded": "2024-11-08"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2023,
+    "Horsepower": 287,
+    "IsElectric": true,
+    "Price": 57956.97,
+    "Color": "White",
+    "DateAdded": "2021-02-02"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escape",
+    "Year": 2016,
+    "Horsepower": 441,
+    "IsElectric": true,
+    "Price": 25084.97,
+    "Color": "Yellow",
+    "DateAdded": "2019-11-04"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Malibu",
+    "Year": 2022,
+    "Horsepower": 237,
+    "IsElectric": true,
+    "Price": 28356.9,
+    "Color": "White",
+    "DateAdded": "2021-01-03"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Escape",
+    "Year": 2010,
+    "Horsepower": 123,
+    "IsElectric": false,
+    "Price": 56645.24,
+    "Color": "Red",
+    "DateAdded": "2022-08-28"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Year": 2017,
+    "Horsepower": 368,
+    "IsElectric": false,
+    "Price": 28754.3,
+    "Color": "Black",
+    "DateAdded": "2024-09-04"
+  },
+  {
+    "Make": "Audi",
+    "Model": "A6",
+    "Year": 2020,
+    "Horsepower": 272,
+    "IsElectric": false,
+    "Price": 32598.84,
+    "Color": "Blue",
+    "DateAdded": "2023-01-02"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2015,
+    "Horsepower": 433,
+    "IsElectric": true,
+    "Price": 49188.56,
+    "Color": "Purple",
+    "DateAdded": "2023-04-07"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model S",
+    "Year": 2018,
+    "Horsepower": 108,
+    "IsElectric": false,
+    "Price": 59360.92,
+    "Color": "White",
+    "DateAdded": "2024-07-12"
+  },
+  {
+    "Make": "Kia",
+    "Model": "Forte",
+    "Year": 2010,
+    "Horsepower": 237,
+    "IsElectric": false,
+    "Price": 31983.59,
+    "Color": "Gray",
+    "DateAdded": "2021-10-13"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2019,
+    "Horsepower": 376,
+    "IsElectric": true,
+    "Price": 42888.4,
+    "Color": "Gray",
+    "DateAdded": "2021-07-21"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model 3",
+    "Year": 2011,
+    "Horsepower": 388,
+    "IsElectric": false,
+    "Price": 51411.63,
+    "Color": "Green",
+    "DateAdded": "2019-10-21"
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Tahoe",
+    "Year": 2017,
+    "Horsepower": 443,
+    "IsElectric": false,
+    "Price": 23535.56,
+    "Color": "Red",
+    "DateAdded": "2022-04-14"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2022,
+    "Horsepower": 445,
+    "IsElectric": true,
+    "Price": 21768.36,
+    "Color": "Black",
+    "DateAdded": "2022-03-02"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Fusion",
+    "Year": 2015,
+    "Horsepower": 113,
+    "IsElectric": true,
+    "Price": 55662.09,
+    "Color": "White",
+    "DateAdded": "2021-11-17"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sonata",
+    "Year": 2020,
+    "Horsepower": 345,
+    "IsElectric": true,
+    "Price": 16629.31,
+    "Color": "Green",
+    "DateAdded": "2025-01-18"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Kona",
+    "Year": 2012,
+    "Horsepower": 436,
+    "IsElectric": true,
+    "Price": 33029.05,
+    "Color": "Orange",
+    "DateAdded": "2022-12-16"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2017,
+    "Horsepower": 308,
+    "IsElectric": true,
+    "Price": 69586.69,
+    "Color": "Purple",
+    "DateAdded": "2023-11-04"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3",
+    "Year": 2012,
+    "Horsepower": 191,
+    "IsElectric": true,
+    "Price": 15066.7,
+    "Color": "Silver",
+    "DateAdded": "2023-06-23"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2015,
+    "Horsepower": 258,
+    "IsElectric": true,
+    "Price": 51360.46,
+    "Color": "Blue",
+    "DateAdded": "2020-07-09"
+  },
+  {
+    "Make": "Tesla",
+    "Model": "Model X",
+    "Year": 2013,
+    "Horsepower": 373,
+    "IsElectric": false,
+    "Price": 70256.04,
+    "Color": "Silver",
+    "DateAdded": "2020-04-26"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Sonata",
+    "Year": 2017,
+    "Horsepower": 147,
+    "IsElectric": false,
+    "Price": 31046.77,
+    "Color": "Blue",
+    "DateAdded": "2024-11-21"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2017,
+    "Horsepower": 247,
+    "IsElectric": true,
+    "Price": 57468.35,
+    "Color": "Green",
+    "DateAdded": "2020-02-14"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Rogue",
+    "Year": 2023,
+    "Horsepower": 464,
+    "IsElectric": false,
+    "Price": 36880.54,
+    "Color": "Purple",
+    "DateAdded": "2024-10-01"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra",
+    "Year": 2010,
+    "Horsepower": 407,
+    "IsElectric": true,
+    "Price": 54545.96,
+    "Color": "White",
+    "DateAdded": "2023-12-30"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "RAV4",
+    "Year": 2018,
+    "Horsepower": 243,
+    "IsElectric": true,
+    "Price": 58560.56,
+    "Color": "Silver",
+    "DateAdded": "2024-10-01"
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3",
+    "Year": 2020,
+    "Horsepower": 216,
+    "IsElectric": false,
+    "Price": 58428.85,
+    "Color": "Gray",
+    "DateAdded": "2020-10-13"
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5",
+    "Year": 2013,
+    "Horsepower": 199,
+    "IsElectric": false,
+    "Price": 39077.22,
+    "Color": "Silver",
+    "DateAdded": "2024-04-05"
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Sentra",
+    "Year": 2015,
+    "Horsepower": 377,
+    "IsElectric": false,
+    "Price": 29071.65,
+    "Color": "Red",
+    "DateAdded": "2024-09-29"
+  },
+  {
+    "Make": "Hyundai",
+    "Model": "Elantra",
+    "Year": 2019,
+    "Horsepower": 405,
+    "IsElectric": false,
+    "Price": 59289.29,
+    "Color": "Green",
+    "DateAdded": "2021-07-15"
+  }
+]
