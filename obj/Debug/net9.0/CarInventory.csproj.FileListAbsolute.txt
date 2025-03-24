@@ -101,3 +101,4 @@
 /Users/munibahmed/Desktop/C# Full Stack/Udemy/dotnet-course-code/C#-Intermediate/CarInventory/bin/Debug/net9.0/runtimes/win/lib/net9.0/System.Security.Cryptography.Pkcs.dll
 /Users/munibahmed/Desktop/C# Full Stack/Udemy/dotnet-course-code/C#-Intermediate/CarInventory/obj/Debug/net9.0/CarInventory.csproj.AssemblyReference.cache
 /Users/munibahmed/Desktop/C# Full Stack/Udemy/dotnet-course-code/C#-Intermediate/CarInventory/obj/Debug/net9.0/CarInven.BBE82B48.Up2Date
+/Users/munibahmed/Desktop/C# Full Stack/Udemy/dotnet-course-code/C#-Intermediate/CarInventory/obj/Debug/net9.0/CarInventory.sourcelink.json

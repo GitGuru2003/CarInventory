@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 using Dapper;
 using System.Data;
 
-namespace CarInverntory.Data
+namespace CarInventory.Data
 {
   class DataContextDapper
   {
