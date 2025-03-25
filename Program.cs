@@ -6,11 +6,11 @@ using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 
 class Program
 {
-
   public static string DisplayMenu()
   {
     string menu = @"
@@ -23,7 +23,7 @@ class Program
     7: Exit.";
     return menu;
   }
-  static void Main(string[] args)
+  static async Task Main(string[] args)
   {
     IConfiguration config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
     DataContextDapper dataContextDapper = new DataContextDapper(config);
@@ -53,7 +53,7 @@ class Program
           // }
 
           // This uses EF
-          List<Car> carList = dataContextEF.Cars.ToList();
+          List<Car> carList = await dataContextEF.Cars.ToListAsync();
           foreach (Car car in carList)
           {
             Console.WriteLine(car.toString());
@@ -98,14 +98,14 @@ class Program
           };
 
           dataContextEF.Cars.Add(newCar);
-          dataContextEF.SaveChanges();
+          await dataContextEF.SaveChangesAsync();
           Console.WriteLine("Car added successfully.");
           break;
         case "3":
           //  3: Update a car (input ID, edit, async EF update).
           Console.WriteLine("Enter the ID of the car you want to update: ");
           int carId = Convert.ToInt32(Console.ReadLine());
-          Car carToUpdate = dataContextEF.Cars.Find(carId);
+          Car carToUpdate = await dataContextEF.Cars.FindAsync(carId);
           if (carToUpdate == null)
           {
             Console.WriteLine("Car not found.");
@@ -145,16 +145,15 @@ class Program
             carToUpdate.Color = colorUpdate;
             carToUpdate.DateAdded = dateAddedUpdate;
 
-            dataContextEF.SaveChanges();
+            await dataContextEF.SaveChangesAsync();
             Console.WriteLine("Car updated successfully.");
           }
-
           break;
         case "4":
           // 4: Delete a car (input ID, async EF delete).
           Console.WriteLine("Enter the ID of the car you want to delete: ");
           int idToDelete = Convert.ToInt32(Console.ReadLine());
-          Car? carToDelete = dataContextEF.Cars.Find(idToDelete);
+          Car? carToDelete = await dataContextEF.Cars.FindAsync(idToDelete);
           if (carToDelete == null)
           {
             Console.WriteLine("Car not found");
@@ -163,7 +162,7 @@ class Program
           else
           {
             dataContextEF.Cars.Remove(carToDelete);
-            dataContextEF.SaveChanges();
+            await dataContextEF.SaveChangesAsync();
             Console.WriteLine("Car deleted successfully.");
           }
           break;
@@ -171,14 +170,14 @@ class Program
           // 5: Import from JSON (async file read, EF insert).
           Console.WriteLine("Write the name of the file to read: ");
           string? fileName = Console.ReadLine();
-          string json = File.ReadAllText(fileName);
+          string json = await File.ReadAllTextAsync(fileName);
           IEnumerable<Car>? cars = JsonConvert.DeserializeObject<IEnumerable<Car>>(json);
           if (cars != null)
           {
             foreach (Car car in cars)
             {
               dataContextEF.Cars.Add(car);
-              dataContextEF.SaveChanges();
+              await dataContextEF.SaveChangesAsync();
             }
           }
           Console.WriteLine("Cars imported successfully.");
@@ -187,9 +186,9 @@ class Program
           // 6: Export to JSON (async EF query, file write).
           Console.WriteLine("Write the name of the file to write: ");
           string? fileNameToExport = Console.ReadLine();
-          List<Car> carsToExport = dataContextEF.Cars.ToList();
+          List<Car> carsToExport = await dataContextEF.Cars.ToListAsync();
           string jsonToExport = JsonConvert.SerializeObject(carsToExport);
-          File.WriteAllText(fileNameToExport, jsonToExport);
+          await File.WriteAllTextAsync(fileNameToExport, jsonToExport);
           Console.WriteLine("Cars exported successfully.");
           break;
         case "7":
